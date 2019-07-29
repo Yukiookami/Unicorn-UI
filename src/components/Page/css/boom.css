@@ -1,0 +1,116 @@
+.boom {
+  position: relative;
+  height: .4rem;
+  width: .4rem;
+  opacity: 0;
+  background: radial-gradient(rgba(0, 0, 0, 0), rgba(71, 159, 209, .4));
+  animation: boom .3s ease-in-out;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  -webkit-animation: boom .3s ease-in-out;
+  z-index: 9999;
+}
+/* 70%展开 30%消散 最终直径6rem */
+@keyframes boom {
+  0% {
+    opacity: 0;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+  }
+
+  10% {
+    opacity: .1;
+    transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+  }
+
+  20% {
+    opacity: .2;
+    transform: scale(2);
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -ms-transform: scale(2);
+    -o-transform: scale(2);
+  }
+
+  30% {
+    opacity: .3;
+    transform: scale(2.3);
+    -webkit-transform: scale(2.3);
+    -moz-transform: scale(2.3);
+    -ms-transform: scale(2.3);
+    -o-transform: scale(2.3);
+  }
+
+  40% {
+    opacity: .4;
+    transform: scale(2.7);
+    -webkit-transform: scale(2.7);
+    -moz-transform: scale(2.7);
+    -ms-transform: scale(2.7);
+    -o-transform: scale(2.7);
+  }
+
+  50% {
+    opacity: .5;
+    transform: scale(4);
+    -webkit-transform: scale(4);
+    -moz-transform: scale(4);
+    -ms-transform: scale(4);
+    -o-transform: scale(4);
+}
+
+  60% {
+    opacity: .55;
+    transform: scale(4.5);
+    -webkit-transform: scale(4.5);
+    -moz-transform: scale(4.5);
+    -ms-transform: scale(4.5);
+    -o-transform: scale(4.5);
+}
+
+  70% {
+    opacity: .6;
+    transform: scale(5);
+    -webkit-transform: scale(5);
+    -moz-transform: scale(5);
+    -ms-transform: scale(5);
+    -o-transform: scale(5);
+}
+
+  80% {
+    opacity: .66;
+    transform: scale(5.2);
+    -webkit-transform: scale(5.2);
+    -moz-transform: scale(5.2);
+    -ms-transform: scale(5.2);
+    -o-transform: scale(5.2);
+}
+
+  90% {
+    opacity: .33;
+    transform: scale(5.5);
+    -webkit-transform: scale(5.5);
+    -moz-transform: scale(5.5);
+    -ms-transform: scale(5.5);
+    -o-transform: scale(5.5);
+}
+
+  100% {
+    opacity: 0;
+    transform: scale(5.7);
+    -webkit-transform: scale(5.7);
+    -moz-transform: scale(5.7);
+    -ms-transform: scale(5.7);
+    -o-transform: scale(5.7);
+}
+}
