@@ -1,0 +1,18 @@
+
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components/Picker/Dropdown" transform="translate(-290.000000, -74.000000)" fill="#1A051D" fill-rule="nonzero">
+            <g id="Dropdown">
+                <g transform="translate(0.000000, 56.000000)">
+                    <g id="Header">
+                        <g id="Arrow/Active" transform="translate(280.000000, 10.000000)">
+                            <g id="Icons/16px/Arrow-Outline-Right" transform="translate(4.000000, 4.000000)">
+                                <path d="M7.97497487,8 L10.7976598,10.822685 C11.0669869,11.0920121 11.0669869,11.5286776 10.7976598,11.7980047 C10.5283328,12.0673318 10.0916672,12.0673318 9.82234015,11.7980047 L6.51199532,8.48765985 C6.24266823,8.21833275 6.24266823,7.78166725 6.51199532,7.51234015 L9.82234015,4.20199532 C10.0916672,3.93266823 10.5283328,3.93266823 10.7976598,4.20199532 C11.0669869,4.47132242 11.0669869,4.90798792 10.7976598,5.17731502 L7.97497487,8 Z" id="Path" transform="translate(8.654828, 8.000000) rotate(-180.000000) translate(-8.654828, -8.000000) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

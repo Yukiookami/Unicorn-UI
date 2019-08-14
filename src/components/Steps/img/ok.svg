@@ -1,0 +1,12 @@
+
+<svg width="10px" height="8px" viewBox="0 0 10 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components/Processing/Done" transform="translate(-11.000000, -12.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Icons/16px/Check">
+                <g transform="translate(9.000000, 9.000000)">
+                    <path d="M10.0570131,4.16363079 C10.3585209,3.86212307 10.8473615,3.86212307 11.1488692,4.16363079 C11.4503769,4.46513852 11.4503769,4.95397913 11.1488692,5.25548685 L6.51651626,9.88783979 C6.21500854,10.1893475 5.72616793,10.1893475 5.42466021,9.88783979 L2.85113079,7.31431038 C2.54962307,7.01280266 2.54962307,6.52396205 2.85113079,6.22245432 C3.15263852,5.9209466 3.64147913,5.9209466 3.94298685,6.22245432 L5.97058824,8.25005571 L10.0570131,4.16363079 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
