@@ -1,4 +1,4 @@
-# color-ui
+# Unicorn-UI
 
 ## Project setup
 ```
